@@ -7,6 +7,14 @@
 //Teste larissa
 
 int main() {
+    printf("Jogo do super trunfo países:"\n);
+
+    int populacao;
+    int numero de pontos turisticos;
+    float area; 
+    float PIB
+
+    
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
